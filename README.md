@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates an uncommon error related to unexpected return values when comparing numbers. The bug.py file shows the function with the error, while the bugSolution.py file provides the corrected code with explanations. The unexpected behavior is primarily observed when negative numbers are used in the function.
